@@ -10,8 +10,8 @@ This blog app is a basic full stack webdevelopment project in which a user can s
 Creating the rest api using monngodb inteface and then created all the routes so that it can pass the information for the require method
 Writing the schemas for the data base and creating the function where it is necessary.
 ### 2. Frontend:
-     - Creating the interface for connection of the rest api which was implemented
-     - Connecting the frontend with axios and use different methods like post , get , put and delete for manupulating the data.
+- Creating the interface for connection of the rest api which was implemented
+- Connecting the frontend with axios and use different methods like post , get , put and delete for manupulating the data.
 ## How to run the code
 
 ### 1. Download MongoDb compass
