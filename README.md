@@ -15,24 +15,24 @@ This blog app is a basic full stack webdevelopment project in which a user can s
 ## How to run the code
 
 ### 1. Download MongoDb compass
-    - Create a database name Cluster
+    Create a database name Cluster
 ### 2. Clone the repository
-    - git clone https://github.com/SanjanaReddy2005/blog_app.git
-    - cd blog_app
+    git clone https://github.com/SanjanaReddy2005/blog_app.git
+    cd blog_app
 ### 3. Install the dependencies:
-    - cd client 
-    - npm install
-    - cd ../
-    - cd server
-    - npm install
+    cd client 
+    npm install
+    cd ../
+    cd server
+    npm install
 ### 4. Run the code:
-    - open two terminal
+    open two terminal
 #### In first terminal
-    - cd blog_app
-    - cd server 
-    - npm run start
+    cd blog_app
+    cd server 
+    npm run start
 #### In second terminal
-    - cd blog_app
-    - cd client
-    - npm run start
+    cd blog_app
+    cd client
+    npm run start
     
